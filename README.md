@@ -14,3 +14,5 @@ This repository contains my SQL practice while learning database fundamentals.
 ## Files
 
 - createtable.sql
+- cousins_output.png
+- student_output.png
